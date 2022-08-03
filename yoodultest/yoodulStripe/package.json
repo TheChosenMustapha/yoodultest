@@ -1,0 +1,19 @@
+{
+  "name": "yoodul",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheChosenMustapha/yoodulStripe.git"
+  },
+  "author": "usman mustapha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheChosenMustapha/yoodulStripe/issues"
+  },
+  "homepage": "https://github.com/TheChosenMustapha/yoodulStripe#readme",
+  "description": ""
+}
